@@ -1,2 +1,2 @@
 # DenguePrediction-Reply
-A replication of the dengue prediction algorithm
+An replication of the dengue prediction algorithm
