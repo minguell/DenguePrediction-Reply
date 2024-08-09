@@ -4,7 +4,7 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 from sklearn.preprocessing import MinMaxScaler
 
 # Passo 1: Leitura do CSV
-file_path = 'path_to_your_file.csv'  # Substitua pelo caminho do seu arquivo
+file_path = './data/dengue_input_simple.csv'  # Substitua pelo caminho do seu arquivo
 data = pd.read_csv(file_path, delimiter=';')
 
 # Passo 2: Seleção e normalização das features
@@ -37,4 +37,4 @@ model_fit = model.fit(disp=False)
 forecast = model_fit.forecast(steps=1)
 forecast = scaler.inverse_transform(np.concatenate([forecast.reshape(-1, 1), np.zeros((forecast.shape[0], scaled_data.shape[1] - 1))], axis=1))[:, 0]
 
-print("Previsão do nível de infestação de dengue para o próximo dia:", forecast[0])
+print("Previsão do nível de infestação de dengue para o próximo mes:", forecast[0])
