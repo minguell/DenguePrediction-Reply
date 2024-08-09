@@ -1,11 +1,18 @@
 import pandas as pd
 import numpy as np
+import tensorflow as tf
+import random
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import GRU, Dense
 from sklearn.preprocessing import MinMaxScaler
 
+# Set seeds for reproducibility
+np.random.seed(42)
+tf.random.set_seed(42)
+random.seed(42)
+
 # Passo 1: Leitura do CSV
-file_path = 'path_to_your_file.csv'  # Substitua pelo caminho do seu arquivo
+file_path = './data/dengue_input_simple.csv'   # Substitua pelo caminho do seu arquivo
 data = pd.read_csv(file_path, delimiter=';')
 
 # Passo 2: Seleção e normalização das features
@@ -23,14 +30,13 @@ scaled_data = scaler.fit_transform(data)
 # Passo 3: Preparação dos dados para o GRU
 look_back = 1
 X, Y = [], []
-
 for i in range(len(scaled_data) - look_back):
     X.append(scaled_data[i:i + look_back])
     Y.append(scaled_data[i + look_back, 0])  # coluna target é a primeira
 
 X, Y = np.array(X), np.array(Y)
 
-# Reshape dos dados para [amostras, time steps, features]
+# Reshape dos dados para [amostras, time steps, sfeatures]
 X = np.reshape(X, (X.shape[0], X.shape[1], X.shape[2]))
 
 # Passo 4: Construção e treinamento do modelo GRU
@@ -48,4 +54,4 @@ last_data = np.reshape(last_data, (1, look_back, len(features)))
 prediction = model.predict(last_data)
 prediction = scaler.inverse_transform(np.concatenate([prediction, np.zeros((prediction.shape[0], scaled_data.shape[1] - 1))], axis=1))[:, 0]
 
-print("Previsão do nível de infestação de dengue para o próximo dia:", prediction[0])
+print("Previsão do nível de infestação de dengue para o próximo mes:", prediction[0])
