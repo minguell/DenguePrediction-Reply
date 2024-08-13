@@ -1,0 +1,1134 @@
+2018_52.json:
+  Male mosquitoes: 2
+  Female mosquitoes: 31
+2023_21.json:
+  Male mosquitoes: 878
+  Female mosquitoes: 878
+2023_15.json:
+  Male mosquitoes: 883
+  Female mosquitoes: 883
+2020_50.json:
+  Male mosquitoes: 681
+  Female mosquitoes: 681
+2019_43.json:
+  Male mosquitoes: 1410
+  Female mosquitoes: 1410
+2017_39.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_54.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2018_31.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 1
+2018_15.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 298
+2020_22.json:
+  Male mosquitoes: 896
+  Female mosquitoes: 896
+2020_9.json:
+  Male mosquitoes: 1205
+  Female mosquitoes: 1205
+2018_47.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 110
+2020_31.json:
+  Male mosquitoes: 789
+  Female mosquitoes: 789
+2019_37.json:
+  Male mosquitoes: 1202
+  Female mosquitoes: 1202
+2017_18.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_19.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_14.json:
+  Male mosquitoes: 819
+  Female mosquitoes: 819
+2019_12.json:
+  Male mosquitoes: 1411
+  Female mosquitoes: 1411
+2022_54.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_52.json:
+  Male mosquitoes: 879
+  Female mosquitoes: 879
+2021_3.json:
+  Male mosquitoes: 739
+  Female mosquitoes: 739
+2020_17.json:
+  Male mosquitoes: 904
+  Female mosquitoes: 904
+2019_14.json:
+  Male mosquitoes: 1413
+  Female mosquitoes: 1413
+2018_25.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 48
+2020_18.json:
+  Male mosquitoes: 904
+  Female mosquitoes: 904
+2022_26.json:
+  Male mosquitoes: 902
+  Female mosquitoes: 902
+2019_1.json:
+  Male mosquitoes: 271
+  Female mosquitoes: 271
+2022_16.json:
+  Male mosquitoes: 785
+  Female mosquitoes: 785
+2023_41.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_7.json:
+  Male mosquitoes: 885
+  Female mosquitoes: 885
+2017_23.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_37.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_45.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_28.json:
+  Male mosquitoes: 1000
+  Female mosquitoes: 1000
+2017_30.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_30.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_40.json:
+  Male mosquitoes: 771
+  Female mosquitoes: 771
+2023_16.json:
+  Male mosquitoes: 880
+  Female mosquitoes: 880
+2019_32.json:
+  Male mosquitoes: 1200
+  Female mosquitoes: 1200
+2019_16.json:
+  Male mosquitoes: 1407
+  Female mosquitoes: 1407
+2022_15.json:
+  Male mosquitoes: 703
+  Female mosquitoes: 703
+2023_46.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_42.json:
+  Male mosquitoes: 1324
+  Female mosquitoes: 1324
+2022_5.json:
+  Male mosquitoes: 887
+  Female mosquitoes: 887
+2020_13.json:
+  Male mosquitoes: 1034
+  Female mosquitoes: 1034
+2022_42.json:
+  Male mosquitoes: 893
+  Female mosquitoes: 893
+2022_53.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_15.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_35.json:
+  Male mosquitoes: 1278
+  Female mosquitoes: 1278
+2020_8.json:
+  Male mosquitoes: 1359
+  Female mosquitoes: 1359
+2020_35.json:
+  Male mosquitoes: 806
+  Female mosquitoes: 806
+2022_9.json:
+  Male mosquitoes: 878
+  Female mosquitoes: 878
+2021_54.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2018_32.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 8
+2018_38.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 4
+2023_45.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_27.json:
+  Male mosquitoes: 1335
+  Female mosquitoes: 1335
+2022_7.json:
+  Male mosquitoes: 908
+  Female mosquitoes: 908
+2020_30.json:
+  Male mosquitoes: 750
+  Female mosquitoes: 750
+2022_51.json:
+  Male mosquitoes: 769
+  Female mosquitoes: 769
+2018_34.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 1
+2022_30.json:
+  Male mosquitoes: 183
+  Female mosquitoes: 183
+2020_41.json:
+  Male mosquitoes: 710
+  Female mosquitoes: 710
+2019_44.json:
+  Male mosquitoes: 1401
+  Female mosquitoes: 1401
+2023_54.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_33.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_11.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2022_50.json:
+  Male mosquitoes: 883
+  Female mosquitoes: 883
+2023_32.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_53.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_34.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_6.json:
+  Male mosquitoes: 1379
+  Female mosquitoes: 1379
+2021_4.json:
+  Male mosquitoes: 743
+  Female mosquitoes: 743
+2023_4.json:
+  Male mosquitoes: 883
+  Female mosquitoes: 883
+2017_50.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_24.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_46.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_49.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_47.json:
+  Male mosquitoes: 828
+  Female mosquitoes: 828
+2020_51.json:
+  Male mosquitoes: 636
+  Female mosquitoes: 636
+2018_5.json:
+  Male mosquitoes: 2
+  Female mosquitoes: 325
+2021_46.json:
+  Male mosquitoes: 752
+  Female mosquitoes: 752
+2019_54.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2022_19.json:
+  Male mosquitoes: 867
+  Female mosquitoes: 867
+2018_1.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_25.json:
+  Male mosquitoes: 902
+  Female mosquitoes: 902
+2017_40.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_28.json:
+  Male mosquitoes: 1394
+  Female mosquitoes: 1394
+2017_44.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_39.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_44.json:
+  Male mosquitoes: 618
+  Female mosquitoes: 618
+2020_10.json:
+  Male mosquitoes: 1288
+  Female mosquitoes: 1288
+2022_17.json:
+  Male mosquitoes: 780
+  Female mosquitoes: 780
+2017_54.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_41.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_22.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_5.json:
+  Male mosquitoes: 1383
+  Female mosquitoes: 1383
+2017_9.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_43.json:
+  Male mosquitoes: 707
+  Female mosquitoes: 707
+2019_29.json:
+  Male mosquitoes: 1265
+  Female mosquitoes: 1265
+2023_12.json:
+  Male mosquitoes: 883
+  Female mosquitoes: 883
+2020_23.json:
+  Male mosquitoes: 910
+  Female mosquitoes: 910
+2022_14.json:
+  Male mosquitoes: 866
+  Female mosquitoes: 866
+2018_11.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 307
+2021_41.json:
+  Male mosquitoes: 596
+  Female mosquitoes: 596
+2020_26.json:
+  Male mosquitoes: 842
+  Female mosquitoes: 842
+2018_40.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 32
+2019_8.json:
+  Male mosquitoes: 1392
+  Female mosquitoes: 1392
+2022_8.json:
+  Male mosquitoes: 884
+  Female mosquitoes: 884
+2017_14.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_21.json:
+  Male mosquitoes: 932
+  Female mosquitoes: 932
+2019_45.json:
+  Male mosquitoes: 1406
+  Female mosquitoes: 1406
+2017_38.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_35.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2018_16.json:
+  Male mosquitoes: 2
+  Female mosquitoes: 412
+2019_52.json:
+  Male mosquitoes: 1299
+  Female mosquitoes: 1299
+2018_50.json:
+  Male mosquitoes: 4
+  Female mosquitoes: 180
+2023_36.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_48.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_20.json:
+  Male mosquitoes: 923
+  Female mosquitoes: 923
+2021_25.json:
+  Male mosquitoes: 973
+  Female mosquitoes: 973
+2019_26.json:
+  Male mosquitoes: 1337
+  Female mosquitoes: 1337
+2021_2.json:
+  Male mosquitoes: 729
+  Female mosquitoes: 729
+2021_27.json:
+  Male mosquitoes: 977
+  Female mosquitoes: 977
+2023_27.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_23.json:
+  Male mosquitoes: 955
+  Female mosquitoes: 955
+2019_24.json:
+  Male mosquitoes: 1404
+  Female mosquitoes: 1404
+2021_10.json:
+  Male mosquitoes: 755
+  Female mosquitoes: 755
+2022_49.json:
+  Male mosquitoes: 854
+  Female mosquitoes: 854
+2018_28.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 11
+2021_34.json:
+  Male mosquitoes: 930
+  Female mosquitoes: 930
+2022_28.json:
+  Male mosquitoes: 302
+  Female mosquitoes: 302
+2022_11.json:
+  Male mosquitoes: 881
+  Female mosquitoes: 881
+2019_49.json:
+  Male mosquitoes: 1407
+  Female mosquitoes: 1407
+2019_18.json:
+  Male mosquitoes: 1336
+  Female mosquitoes: 1336
+2020_32.json:
+  Male mosquitoes: 793
+  Female mosquitoes: 793
+2022_44.json:
+  Male mosquitoes: 877
+  Female mosquitoes: 877
+2021_15.json:
+  Male mosquitoes: 831
+  Female mosquitoes: 831
+2018_8.json:
+  Male mosquitoes: 2
+  Female mosquitoes: 254
+2022_47.json:
+  Male mosquitoes: 884
+  Female mosquitoes: 884
+2017_13.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_29.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2018_42.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 59
+2018_10.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 282
+2020_37.json:
+  Male mosquitoes: 725
+  Female mosquitoes: 725
+2022_48.json:
+  Male mosquitoes: 881
+  Female mosquitoes: 881
+2017_51.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2018_9.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 267
+2020_4.json:
+  Male mosquitoes: 1360
+  Female mosquitoes: 1360
+2018_45.json:
+  Male mosquitoes: 2
+  Female mosquitoes: 94
+2023_8.json:
+  Male mosquitoes: 813
+  Female mosquitoes: 813
+2021_39.json:
+  Male mosquitoes: 400
+  Female mosquitoes: 400
+2017_21.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_17.json:
+  Male mosquitoes: 866
+  Female mosquitoes: 866
+2021_37.json:
+  Male mosquitoes: 655
+  Female mosquitoes: 655
+2017_29.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_9.json:
+  Male mosquitoes: 895
+  Female mosquitoes: 895
+2022_18.json:
+  Male mosquitoes: 747
+  Female mosquitoes: 747
+2020_7.json:
+  Male mosquitoes: 1366
+  Female mosquitoes: 1366
+2019_51.json:
+  Male mosquitoes: 1401
+  Female mosquitoes: 1401
+2017_32.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_13.json:
+  Male mosquitoes: 881
+  Female mosquitoes: 881
+2022_2.json:
+  Male mosquitoes: 903
+  Female mosquitoes: 903
+2018_17.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 388
+2021_9.json:
+  Male mosquitoes: 753
+  Female mosquitoes: 753
+2021_13.json:
+  Male mosquitoes: 818
+  Female mosquitoes: 818
+2019_10.json:
+  Male mosquitoes: 1333
+  Female mosquitoes: 1333
+2017_3.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_46.json:
+  Male mosquitoes: 805
+  Female mosquitoes: 805
+2017_16.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2022_37.json:
+  Male mosquitoes: 870
+  Female mosquitoes: 870
+2021_35.json:
+  Male mosquitoes: 1000
+  Female mosquitoes: 1000
+2017_52.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_16.json:
+  Male mosquitoes: 918
+  Female mosquitoes: 918
+2019_33.json:
+  Male mosquitoes: 1415
+  Female mosquitoes: 1415
+2017_49.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2018_49.json:
+  Male mosquitoes: 4
+  Female mosquitoes: 166
+2018_7.json:
+  Male mosquitoes: 4
+  Female mosquitoes: 329
+2023_42.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_28.json:
+  Male mosquitoes: 793
+  Female mosquitoes: 793
+2023_50.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_29.json:
+  Male mosquitoes: 745
+  Female mosquitoes: 745
+2021_36.json:
+  Male mosquitoes: 708
+  Female mosquitoes: 708
+2019_11.json:
+  Male mosquitoes: 1399
+  Female mosquitoes: 1399
+2020_52.json:
+  Male mosquitoes: 717
+  Female mosquitoes: 717
+2023_43.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_44.json:
+  Male mosquitoes: 775
+  Female mosquitoes: 775
+2021_50.json:
+  Male mosquitoes: 898
+  Female mosquitoes: 898
+2021_53.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2022_23.json:
+  Male mosquitoes: 908
+  Female mosquitoes: 908
+2017_53.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_12.json:
+  Male mosquitoes: 1305
+  Female mosquitoes: 1305
+2023_17.json:
+  Male mosquitoes: 884
+  Female mosquitoes: 884
+2019_41.json:
+  Male mosquitoes: 1323
+  Female mosquitoes: 1323
+2018_3.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 298
+2018_27.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 14
+2020_19.json:
+  Male mosquitoes: 881
+  Female mosquitoes: 881
+2023_19.json:
+  Male mosquitoes: 882
+  Female mosquitoes: 882
+2017_6.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_19.json:
+  Male mosquitoes: 901
+  Female mosquitoes: 901
+2018_26.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 35
+2019_40.json:
+  Male mosquitoes: 1249
+  Female mosquitoes: 1249
+2017_36.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_30.json:
+  Male mosquitoes: 966
+  Female mosquitoes: 966
+2018_22.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 163
+2018_54.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_20.json:
+  Male mosquitoes: 889
+  Female mosquitoes: 889
+2018_19.json:
+  Male mosquitoes: 3
+  Female mosquitoes: 355
+2018_39.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 8
+2021_5.json:
+  Male mosquitoes: 734
+  Female mosquitoes: 734
+2017_42.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_23.json:
+  Male mosquitoes: 1414
+  Female mosquitoes: 1414
+2020_48.json:
+  Male mosquitoes: 824
+  Female mosquitoes: 824
+2018_51.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 182
+2022_24.json:
+  Male mosquitoes: 868
+  Female mosquitoes: 868
+2021_16.json:
+  Male mosquitoes: 828
+  Female mosquitoes: 828
+2021_1.json:
+  Male mosquitoes: 726
+  Female mosquitoes: 726
+2022_27.json:
+  Male mosquitoes: 883
+  Female mosquitoes: 883
+2018_12.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 318
+2018_43.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 90
+2017_1.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_38.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2022_22.json:
+  Male mosquitoes: 902
+  Female mosquitoes: 902
+2023_44.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_38.json:
+  Male mosquitoes: 1067
+  Female mosquitoes: 1067
+2020_20.json:
+  Male mosquitoes: 855
+  Female mosquitoes: 855
+2022_36.json:
+  Male mosquitoes: 664
+  Female mosquitoes: 664
+2021_38.json:
+  Male mosquitoes: 471
+  Female mosquitoes: 471
+2020_33.json:
+  Male mosquitoes: 835
+  Female mosquitoes: 835
+2018_14.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 208
+2017_26.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_47.json:
+  Male mosquitoes: 746
+  Female mosquitoes: 746
+2022_4.json:
+  Male mosquitoes: 907
+  Female mosquitoes: 907
+2017_31.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_51.json:
+  Male mosquitoes: 901
+  Female mosquitoes: 901
+2022_40.json:
+  Male mosquitoes: 897
+  Female mosquitoes: 897
+2020_6.json:
+  Male mosquitoes: 1362
+  Female mosquitoes: 1362
+2022_25.json:
+  Male mosquitoes: 900
+  Female mosquitoes: 900
+2023_3.json:
+  Male mosquitoes: 884
+  Female mosquitoes: 884
+2020_21.json:
+  Male mosquitoes: 899
+  Female mosquitoes: 899
+2023_22.json:
+  Male mosquitoes: 873
+  Female mosquitoes: 873
+2020_45.json:
+  Male mosquitoes: 777
+  Female mosquitoes: 777
+2023_23.json:
+  Male mosquitoes: 812
+  Female mosquitoes: 812
+2021_22.json:
+  Male mosquitoes: 959
+  Female mosquitoes: 959
+2022_1.json:
+  Male mosquitoes: 899
+  Female mosquitoes: 899
+2018_4.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 274
+2020_42.json:
+  Male mosquitoes: 715
+  Female mosquitoes: 715
+2019_15.json:
+  Male mosquitoes: 1418
+  Female mosquitoes: 1418
+2017_27.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2018_30.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 5
+2023_18.json:
+  Male mosquitoes: 533
+  Female mosquitoes: 533
+2018_36.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 2
+2018_6.json:
+  Male mosquitoes: 6
+  Female mosquitoes: 368
+2018_53.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2022_38.json:
+  Male mosquitoes: 835
+  Female mosquitoes: 835
+2019_48.json:
+  Male mosquitoes: 1400
+  Female mosquitoes: 1400
+2019_20.json:
+  Male mosquitoes: 1411
+  Female mosquitoes: 1411
+2021_11.json:
+  Male mosquitoes: 801
+  Female mosquitoes: 801
+2017_7.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_50.json:
+  Male mosquitoes: 1407
+  Female mosquitoes: 1407
+2017_28.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2018_33.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 3
+2021_49.json:
+  Male mosquitoes: 788
+  Female mosquitoes: 788
+2020_27.json:
+  Male mosquitoes: 838
+  Female mosquitoes: 838
+2023_52.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2018_23.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 145
+2022_39.json:
+  Male mosquitoes: 878
+  Female mosquitoes: 878
+2023_14.json:
+  Male mosquitoes: 857
+  Female mosquitoes: 857
+2020_36.json:
+  Male mosquitoes: 746
+  Female mosquitoes: 746
+2021_43.json:
+  Male mosquitoes: 319
+  Female mosquitoes: 319
+2017_17.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_5.json:
+  Male mosquitoes: 785
+  Female mosquitoes: 785
+2021_18.json:
+  Male mosquitoes: 888
+  Female mosquitoes: 888
+2017_2.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_20.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_51.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_34.json:
+  Male mosquitoes: 839
+  Female mosquitoes: 839
+2017_47.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_30.json:
+  Male mosquitoes: 1204
+  Female mosquitoes: 1204
+2021_42.json:
+  Male mosquitoes: 120
+  Female mosquitoes: 120
+2019_21.json:
+  Male mosquitoes: 1412
+  Female mosquitoes: 1412
+2021_12.json:
+  Male mosquitoes: 813
+  Female mosquitoes: 813
+2018_48.json:
+  Male mosquitoes: 2
+  Female mosquitoes: 157
+2021_33.json:
+  Male mosquitoes: 1010
+  Female mosquitoes: 1010
+2023_1.json:
+  Male mosquitoes: 737
+  Female mosquitoes: 737
+2019_13.json:
+  Male mosquitoes: 1396
+  Female mosquitoes: 1396
+2018_41.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 47
+2019_9.json:
+  Male mosquitoes: 1401
+  Female mosquitoes: 1401
+2020_5.json:
+  Male mosquitoes: 1373
+  Female mosquitoes: 1373
+2018_24.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 81
+2022_20.json:
+  Male mosquitoes: 869
+  Female mosquitoes: 869
+2018_18.json:
+  Male mosquitoes: 2
+  Female mosquitoes: 358
+2020_38.json:
+  Male mosquitoes: 702
+  Female mosquitoes: 702
+2022_12.json:
+  Male mosquitoes: 833
+  Female mosquitoes: 833
+2022_31.json:
+  Male mosquitoes: 138
+  Female mosquitoes: 138
+2018_29.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 5
+2023_35.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2018_44.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 77
+2021_48.json:
+  Male mosquitoes: 622
+  Female mosquitoes: 622
+2017_4.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_8.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_40.json:
+  Male mosquitoes: 358
+  Female mosquitoes: 358
+2018_46.json:
+  Male mosquitoes: 1
+  Female mosquitoes: 110
+2023_11.json:
+  Male mosquitoes: 895
+  Female mosquitoes: 895
+2023_47.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2022_21.json:
+  Male mosquitoes: 891
+  Female mosquitoes: 891
+2019_19.json:
+  Male mosquitoes: 1399
+  Female mosquitoes: 1399
+2021_26.json:
+  Male mosquitoes: 964
+  Female mosquitoes: 964
+2023_53.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2022_52.json:
+  Male mosquitoes: 689
+  Female mosquitoes: 689
+2017_5.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_28.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_33.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_3.json:
+  Male mosquitoes: 1355
+  Female mosquitoes: 1355
+2021_45.json:
+  Male mosquitoes: 731
+  Female mosquitoes: 731
+2018_35.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 1
+2020_15.json:
+  Male mosquitoes: 920
+  Female mosquitoes: 920
+2022_45.json:
+  Male mosquitoes: 901
+  Female mosquitoes: 901
+2021_6.json:
+  Male mosquitoes: 772
+  Female mosquitoes: 772
+2018_2.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_4.json:
+  Male mosquitoes: 1314
+  Female mosquitoes: 1314
+2021_7.json:
+  Male mosquitoes: 722
+  Female mosquitoes: 722
+2023_10.json:
+  Male mosquitoes: 882
+  Female mosquitoes: 882
+2022_10.json:
+  Male mosquitoes: 852
+  Female mosquitoes: 852
+2019_17.json:
+  Male mosquitoes: 1403
+  Female mosquitoes: 1403
+2019_34.json:
+  Male mosquitoes: 1347
+  Female mosquitoes: 1347
+2018_37.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 4
+2019_47.json:
+  Male mosquitoes: 1408
+  Female mosquitoes: 1408
+2019_36.json:
+  Male mosquitoes: 1272
+  Female mosquitoes: 1272
+2019_39.json:
+  Male mosquitoes: 1264
+  Female mosquitoes: 1264
+2020_2.json:
+  Male mosquitoes: 1263
+  Female mosquitoes: 1263
+2022_41.json:
+  Male mosquitoes: 874
+  Female mosquitoes: 874
+2021_32.json:
+  Male mosquitoes: 981
+  Female mosquitoes: 981
+2023_31.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_24.json:
+  Male mosquitoes: 894
+  Female mosquitoes: 894
+2022_35.json:
+  Male mosquitoes: 724
+  Female mosquitoes: 724
+2017_12.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_53.json:
+  Male mosquitoes: 736
+  Female mosquitoes: 736
+2022_33.json:
+  Male mosquitoes: 14
+  Female mosquitoes: 14
+2017_37.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2017_48.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_22.json:
+  Male mosquitoes: 1406
+  Female mosquitoes: 1406
+2019_31.json:
+  Male mosquitoes: 1120
+  Female mosquitoes: 1120
+2019_2.json:
+  Male mosquitoes: 278
+  Female mosquitoes: 278
+2022_34.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_3.json:
+  Male mosquitoes: 1306
+  Female mosquitoes: 1306
+2017_25.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_25.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_29.json:
+  Male mosquitoes: 949
+  Female mosquitoes: 949
+2021_31.json:
+  Male mosquitoes: 1004
+  Female mosquitoes: 1004
+2017_10.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2022_46.json:
+  Male mosquitoes: 888
+  Female mosquitoes: 888
+2019_46.json:
+  Male mosquitoes: 1402
+  Female mosquitoes: 1402
+2018_13.json:
+  Male mosquitoes: 2
+  Female mosquitoes: 256
+2023_6.json:
+  Male mosquitoes: 883
+  Female mosquitoes: 883
+2023_26.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2023_2.json:
+  Male mosquitoes: 853
+  Female mosquitoes: 853
+2020_14.json:
+  Male mosquitoes: 831
+  Female mosquitoes: 831
+2022_3.json:
+  Male mosquitoes: 906
+  Female mosquitoes: 906
+2022_13.json:
+  Male mosquitoes: 882
+  Female mosquitoes: 882
+2022_6.json:
+  Male mosquitoes: 902
+  Female mosquitoes: 902
+2018_21.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 153
+2020_11.json:
+  Male mosquitoes: 1318
+  Female mosquitoes: 1318
+2022_43.json:
+  Male mosquitoes: 892
+  Female mosquitoes: 892
+2017_24.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2022_32.json:
+  Male mosquitoes: 45
+  Female mosquitoes: 45
+2020_1.json:
+  Male mosquitoes: 1228
+  Female mosquitoes: 1228
+2017_34.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2020_49.json:
+  Male mosquitoes: 638
+  Female mosquitoes: 638
+2023_40.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2019_25.json:
+  Male mosquitoes: 1334
+  Female mosquitoes: 1334
+2020_39.json:
+  Male mosquitoes: 781
+  Female mosquitoes: 781
+2021_24.json:
+  Male mosquitoes: 968
+  Female mosquitoes: 968
+2018_20.json:
+  Male mosquitoes: 2
+  Female mosquitoes: 314
+2022_29.json:
+  Male mosquitoes: 201
+  Female mosquitoes: 201
+2019_7.json:
+  Male mosquitoes: 1394
+  Female mosquitoes: 1394
+2017_43.json:
+  Male mosquitoes: 0
+  Female mosquitoes: 0
+2021_8.json:
+  Male mosquitoes: 730
+  Female mosquitoes: 730
